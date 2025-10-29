@@ -1,5 +1,7 @@
 # Generalised Skyrme Equation Numerical Verification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17474010.svg)](https://doi.org/10.5281/zenodo.17474010)
+
 This repository contains two fully documented Python scripts that numerically verify and reproduce the core results described in the accompanying research paper on the **Generalised Skyrme Equation (GSE)** within the QEM framework. The scripts are designed to be transparent, parameter-free checks of the mathematical and physical consistency of the model, demonstrating the existence and stability of solitonic solutions and their role in baryon and lepton mass generation.
 
 ## Repository contents
